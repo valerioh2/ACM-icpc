@@ -10,6 +10,7 @@ int main()
 			printf("%d",j+1);
 		}
 		printf("\n");
+		printf("lalo valerio \n");
 	}
 	return 0;
 }
