@@ -1,0 +1,29 @@
+commit 301d937d3b51aee50a902782f732512f2547b9fb
+Author: LordValerio <valerioicpc@gmail.com>
+Date:   Thu Sep 17 13:21:57 2015 -0500
+
+    la ultima
+
+commit a3437c7c693a900692c67bcd85b5bfbf72c3e32e
+Author: LordValerio <valerioicpc@gmail.com>
+Date:   Thu Sep 17 13:10:56 2015 -0500
+
+    guardar los cambios en primero.c
+
+commit 1128d066d560815a41c8687d523c289738134468
+Author: LordValerio <valerioicpc@gmail.com>
+Date:   Thu Sep 17 13:04:07 2015 -0500
+
+    comensando a  realizar commit
+
+commit 8c9239f712193e413e0da58f1dd43b198eeb4991
+Author: lordValerio <valerioicpc@gmail.com>
+Date:   Wed Sep 16 17:40:29 2015 -0500
+
+    segundo commit
+
+commit b3d20251ebb679148326220ef324a77531081b87
+Author: lordValerio <valerioicpc@gmail.com>
+Date:   Wed Sep 16 16:55:49 2015 -0500
+
+    primer commit
